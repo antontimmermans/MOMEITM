@@ -10,3 +10,5 @@ v1.0b 17-02-2023 Fixed old journal - dresser power state behavior
 v1.0c 17-02-2023 Fixed investigator release with door closed.
 
 v1.0d 24-02-2023 Added Czech Translation (based ending only) by LabBrab https://github.com/antontimmermans/MOMEITM/issues/1.
+
+v1.1 23-30-2023 Added voiceover by Stephen Weese.
