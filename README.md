@@ -11,4 +11,6 @@ v1.0c 17-02-2023 Fixed investigator release with door closed.
 
 v1.0d 24-02-2023 Added Czech Translation (based ending only) by LabBrab https://github.com/antontimmermans/MOMEITM/issues/1.
 
-v1.1 23-30-2023 Added voiceover by Stephen Weese.
+v1.1 23-03-2023 Added voiceover by Stephen Weese.
+
+v1.2 23-04-2023 Added Soft Launch SOA expansion
