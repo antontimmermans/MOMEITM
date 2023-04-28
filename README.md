@@ -14,3 +14,5 @@ v1.0d 24-02-2023 Added Czech Translation (based ending only) by LabBrab https://
 v1.1 23-03-2023 Added voiceover by Stephen Weese.
 
 v1.2 23-04-2023 Added Soft Launch SOA expansion
+
+v1.2b 28-04-2023 SOA expansion released
