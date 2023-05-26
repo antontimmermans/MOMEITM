@@ -18,3 +18,5 @@ v1.2 23-04-2023 Added Soft Launch SOA expansion
 v1.2b 28-04-2023 SOA expansion released
 
 v1.2c 10-05-2023 German Translation by frankenraecher (including SOA)
+
+v1.2d 26-05-2023 Releasing HJ Expansion - English only
