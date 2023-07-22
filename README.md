@@ -22,3 +22,5 @@ v1.2c 10-05-2023 German Translation by frankenraecher (including SOA)
 v1.2d 26-05-2023 Releasing HJ Expansion - English only
 
 v1.2e 17-07-2023 Releasing POTS Expansion - English only
+
+v1.27 22-07-2023 Added debug backdoor; fixed Czech translation
