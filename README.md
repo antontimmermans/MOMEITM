@@ -24,3 +24,6 @@ v1.2d 26-05-2023 Releasing HJ Expansion - English only
 v1.2e 17-07-2023 Releasing POTS Expansion - English only
 
 v1.27 22-07-2023 Added debug backdoor; fixed Czech translation
+
+
+v1.2g 24-07-2023 minor text adjustments in POTS part
