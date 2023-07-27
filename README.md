@@ -25,5 +25,6 @@ v1.2e 17-07-2023 Releasing POTS Expansion - English only
 
 v1.27 22-07-2023 Added debug backdoor; fixed Czech translation
 
-
 v1.2g 24-07-2023 minor text adjustments in POTS part
+
+v1.2h 27-07-2023 Removed Rich text format to allow Asian translations
