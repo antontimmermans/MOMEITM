@@ -34,3 +34,5 @@ v1.2i 16-08-2023 German Translation by frankenraecher including all expansions
 v1.2j 09-09-2023 Redesigned Mythos system with 5 levels
 
 v1.2k 18-09-2023 added TransitionRound debugging variable
+
+v1.2l 19-10-2023 added Polish translation by sircohen
