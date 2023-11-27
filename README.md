@@ -40,3 +40,5 @@ v1.2l 19-10-2023 added Polish translation by sircohen
 v1.2m 22-10-2023 Updated Polish translation by sircohen
 
 v1.2n 27-10-2023 Updated Polish translation by sircohen
+
+v1.2o 27-11-2023 Corrected minor typos in English text
