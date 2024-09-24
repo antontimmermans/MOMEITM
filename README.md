@@ -44,3 +44,5 @@ v1.2n 27-10-2023 Updated Polish translation by sircohen
 v1.2o 27-11-2023 Corrected minor typos in English text
 
 v1.2p 13-12-2023 Added Spanish translation by Vidimus
+
+v1.2q 24-09-2024 Updated Czech translation by LabBrab (POTS ending in English)
