@@ -48,3 +48,5 @@ v1.2p 13-12-2023 Added Spanish translation by Vidimus
 v1.2q 24-09-2024 Updated Czech translation by LabBrab (POTS ending in English)
 
 v1.3  18-10-2024 fixed Charlie Kane and Lilly Chen indentification; fixed abductee selection from #SoT and #BtT
+
+v1.3a  22-04-2025 fixed https://github.com/antontimmermans/MOMEITM/issues/2 file name inconsistency on linux
