@@ -54,3 +54,5 @@ v1.3a  22-04-2025 fixed https://github.com/antontimmermans/MOMEITM/issues/2 file
 V1.4 01-12-2025 fixed #BtT and #SoT Display in mirror. And other minor Bug.
 
 V1.4a 07-01-2026 Added Chinese translation by Jason Wu (pfjasonwu) (https://github.com/antontimmermans/MOMFCCA/issues/5)
+
+V1.4b 07-01-2026 Added Polish voice over by Grahnar
